@@ -9,7 +9,7 @@
 
   <artifactId>bw-calendar-data</artifactId>
   <groupId>org.bedework.deploy</groupId>
-  <version>5.0.0-SNAPSHOT</version>
+  <version>4.0.0-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>Bedework: calendar demo data</name>
